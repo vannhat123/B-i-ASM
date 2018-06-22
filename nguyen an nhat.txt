@@ -1,0 +1,7 @@
+Transaction history.
+Transaction ID                                     Type       Created date              From                           To                             Content         Amount         
+7                                                  Withdraw   6/22/2018 9:25:03 PM                                                                    rut tien cua nhat 45000          
+56                                                 Deposit    6/22/2018 9:24:39 PM                                                                    gui tien cho nhat 45000          
+57                                                 Withdraw   6/22/2018 9:46:28 PM                                                                    rut tien cua nhat3 15000          
+4755                                               Deposit    6/22/2018 9:46:53 PM                                                                    gui tien cho nhat145 50000          
+
